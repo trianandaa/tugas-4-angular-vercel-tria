@@ -1,0 +1,12 @@
+link deploy
+tugas-4-paw-vercel-3jb7-jqwznvfxw-darrens-projects-2a424d99.vercel.app
+
+
+domains
+tugas-4-paw-vercel-3jb7.vercel.app
+
+branch
+tugas-4-paw-vercel-3jb7-git-main-darrens-projects-2a424d99.vercel.app
+
+deployment link
+tugas-4-paw-vercel-3jb7-jqwznvfxw-darrens-projects-2a424d99.vercel.app
